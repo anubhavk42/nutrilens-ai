@@ -5,15 +5,18 @@ AI-powered nutrition tracking app built for India — scan any food, get instant
 
 ---
 
-## 📱 App Screenshots
+## 📱 Screenshots
 
-| Login | Goal Setup | Onboarding |
-|-------|-----------|------------|
-| <img src="screenshots/screenshot_1.jpeg" width="220"/> | <img src="screenshots/screenshot_2.jpeg" width="220"/> | <img src="screenshots/screenshot_3.jpeg" width="220"/> |
-
-| Home Dashboard | Profile | Notifications |
-|----------------|---------|---------------|
-| <img src="screenshots/screenshot_5.jpeg" width="220"/> | <img src="screenshots/screenshot_4.jpeg" width="220"/> | <img src="screenshots/screenshot_16.jpeg" width="220"/> |
+<p align="center">
+  <img src="screenshots/screenshot_2.jpeg" width="30%" />
+  <img src="screenshots/screenshot_3.jpeg" width="30%" />
+  <img src="screenshots/screenshot_5.jpeg" width="30%" />
+</p>
+<p align="center">
+  <img src="screenshots/screenshot_6.jpeg" width="30%" />
+  <img src="screenshots/screenshot_7.jpeg" width="30%" />
+  <img src="screenshots/screenshot_8.jpeg" width="30%" />
+</p>
 
 ---
 
@@ -43,10 +46,6 @@ AI-powered nutrition tracking app built for India — scan any food, get instant
 ---
 
 ## 🚀 Setup
-
-```bash
-git clone https://github.com/anubhavk42/nutrilens-ai.git
-```
 
 Add your Gemini API key to `local.properties`:
 ---
