@@ -1,0 +1,6 @@
+{
+  "name": "NutriLens AI",
+  "description": "Your food dashboard, meal scanner, personalized logger, and Gemini-facilitated NutriBot companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
